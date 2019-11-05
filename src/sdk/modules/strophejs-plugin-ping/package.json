@@ -1,0 +1,51 @@
+{
+  "_from": "strophejs-plugin-ping",
+  "_id": "strophejs-plugin-ping@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-HS/ArEGKXfu36fihjUSfjqmqOSyppQTJUbrkfEtOBRJmnaP3LsRRe5T2S3dmCdsWHKORaJYc/OHSKfFlxHPdqw==",
+  "_location": "/strophejs-plugin-ping",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "strophejs-plugin-ping",
+    "name": "strophejs-plugin-ping",
+    "escapedName": "strophejs-plugin-ping",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/strophejs-plugin-ping/-/strophejs-plugin-ping-0.0.3.tgz",
+  "_shasum": "b9002593310ed85424bffef2376dde902b6ef975",
+  "_spec": "strophejs-plugin-ping",
+  "author": {
+    "name": "Strophe plugin developers"
+  },
+  "bugs": {
+    "url": "https://github.com/strophe/strophejs-plugin-ping/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A strophe.js plugin to provide XMPP Ping (XEP-0199)",
+  "homepage": "https://github.com/strophe/strophejs-plugin-ping#readme",
+  "keywords": [
+    "strophe.js",
+    "plugin",
+    "xmpp"
+  ],
+  "license": "MIT",
+  "main": "strophe.ping.js",
+  "name": "strophejs-plugin-ping",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strophe/strophejs-plugin-ping.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}

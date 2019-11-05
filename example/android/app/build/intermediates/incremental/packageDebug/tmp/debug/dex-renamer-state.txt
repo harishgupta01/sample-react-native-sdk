@@ -1,0 +1,4 @@
+#Wed Oct 23 11:49:42 EDT 2019
+base.0=/Users/hgupta002c/Desktop/harish/react/rtc-react-native-dev/master/rtc-react-native-dev/example/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

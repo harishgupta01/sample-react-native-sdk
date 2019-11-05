@@ -1,0 +1,50 @@
+[
+    {
+        "key": "1",
+        "alphabets": []
+    },
+    {
+        "key": "2",
+        "alphabets": ["A", "B", "C"]
+    },
+    {
+        "key": "3",
+        "alphabets": ["D", "E", "F"]
+    },
+    {
+        "key": "4",
+        "alphabets": ["G", "H", "E"]
+    },
+    {
+        "key": "5",
+        "alphabets": ["J", "K", "L"]
+    },
+    {
+        "key": "6",
+        "alphabets": ["M", "N", "O"]
+    },
+    {
+        "key": "7",
+        "alphabets": ["P", "Q", "R", "S"]
+    },
+    {
+        "key": "8",
+        "alphabets": ["T", "U", "V"]
+    },
+    {
+        "key": "9",
+        "alphabets": ["W", "X", "Y", "Z"]
+    },
+    {
+        "key": "*",
+        "alphabets": []
+    },
+    {
+        "key": "0",
+        "alphabets": ["+"]
+    },
+    {
+        "key": "#",
+        "alphabets": []
+    }
+]

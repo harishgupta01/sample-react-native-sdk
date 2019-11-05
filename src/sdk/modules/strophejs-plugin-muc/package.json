@@ -1,0 +1,55 @@
+{
+  "_from": "strophejs-plugin-muc",
+  "_id": "strophejs-plugin-muc@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-IGMCOSxGIgYwHRDVBRCzjDy8AedHxjz2TuJ0vTuLo6v3DisLeW4d107R/SkbkjVknoX1M42fdpZ9oKb5zRsLxw==",
+  "_location": "/strophejs-plugin-muc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "strophejs-plugin-muc",
+    "name": "strophejs-plugin-muc",
+    "escapedName": "strophejs-plugin-muc",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/strophejs-plugin-muc/-/strophejs-plugin-muc-1.1.0.tgz",
+  "_shasum": "dc752eabcb7c3af92f6783c3712016868e7e5e1b",
+  "_spec": "strophejs-plugin-muc",
+  "_where": "/Users/infosys/Documents/test/rtc-react-native-dev",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/strophe/strophejs-plugin-muc/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A strophe.js plugin for Multi-User Chat (XEP-0045)",
+  "devDependencies": {
+    "coffee-script": "^1.12.6",
+    "rollup": "^0.45.2",
+    "rollup-plugin-coffee-script": "^1.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/strophe/strophejs-plugin-muc#readme",
+  "license": "MIT",
+  "main": "lib/strophe.muc.js",
+  "name": "strophejs-plugin-muc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strophe/strophejs-plugin-muc.git"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "prepublish": "npm run --silent build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
